@@ -15,6 +15,8 @@ No webpage link
 
 [Click link for READMe-Generator example video] (https://vscode.dev/github/kapil319/readme-generator/blob/main/video/ReadMe%20Generator%20Example.mov)
 
+[Click link for READMe-Generator example video](<video/ReadMe Generator Example.mov>)
+
 ## Installation
 
 Create GitHub respository 
