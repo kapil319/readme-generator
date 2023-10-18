@@ -13,8 +13,7 @@ How? incude markdown file and write to file logic and output via node in integra
 
 No webpage link
 
-[Click link for READMe-Generator example video] (video/ReadMe Generator.mov)
-
+[Click link for READMe-Generator example video] (
 ## Installation
 
 Create GitHub respository 
@@ -30,7 +29,7 @@ Jamie Lujan,
 Nazeh Abel
 
 Module 11 Challenge:
-https://zoom.us/rec/play/q-DaAjN2-kHD2acs6B-BXw7GvGpIDo4FNviNoCoX-mQ7cLane1l-Jp5VM7-mHAuiTDuFILYtaY-wO-E.ZMgd0rGGo12463p7?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2Fu_BRhqD-Pe5cPQvwzFB7s7vWirAdq-OIJUptKA-MMOimhghHiIjrLZtW7tBbCA13.2RS6uvekntos91Un
+https://zoom.us/rec/play/dgfwK6_Xx_nIxkbwDsjuehceiy7HCV7JYS3Ie0x4d6VWoSO74gN3HhjYplYl-UQ5gTiRmP0sMUrAHkPj.fHWN8gnT8uUsJqnj?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FXHLBOg3YvhLTYnvAiZ3rUxBLDqWraUv3Qsd3Wr6H_L0KQ2hubsW--jvGtx6vnzT1.WzYZAzC5uqHYxMcq
 
 ## License
 
@@ -38,7 +37,7 @@ License MIT
 
 ## Features
 
-if functions, alerts, prompts and confirms used to guide user through password generator start up.
+node, npm install, js, writetofile, markdown generator
 
 
 *END OF README*
