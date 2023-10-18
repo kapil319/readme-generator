@@ -48,6 +48,16 @@ const questions = [
         name: 'usage',
         message: 'what info does user require?'
     },
+    {
+        type: 'input',
+        name: 'credits',
+        message: 'list all credits and references'
+    },
+    {
+        type: 'input',
+        name: 'features',
+        message: 'list all features used'
+    },
 
 ];
 
@@ -60,8 +70,8 @@ function writeToFile(fileName, data) {
 // function to initialize program
 function init() {
     inquirer.prompt(questions).then((response) => {
-        console.log(`Generating README...`);
-        writeToFile('README.md', generateMarkdown({...response}))
+        console.log(`Generating exampleREADME...`);
+        writeToFile('exampleREADME.md', generateMarkdown({...response}))
         
     }) 
 

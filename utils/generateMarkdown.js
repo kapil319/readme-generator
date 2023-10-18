@@ -12,7 +12,19 @@ function generateMarkdown(data) {
   ${renderLicenseBadge(data.license)}
 
   ### Description
-  'hello'
+  ${data.description}
+
+  ## Installation
+  ${data.installation}
+
+  ## Usage
+  ${data.usage}
+
+  ## Credits
+  ${data.credits}
+
+  ## Features
+  ${data.features}
 
 `; 
 } 
