@@ -13,7 +13,8 @@ How? incude markdown file and write to file logic and output via node in integra
 
 No webpage link
 
-[Click link for READMe-Generator example video] (
+[Click link for READMe-Generator example video] (https://vscode.dev/github/kapil319/readme-generator/blob/main/video/ReadMe%20Generator%20Example.mov)
+
 ## Installation
 
 Create GitHub respository 
